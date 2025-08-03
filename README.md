@@ -1,4 +1,4 @@
 # dipustartshere
 This is my first git repository.
 <br>
-Author_ DIPRADEB DATTA
+Author_ DIPRADEB DTA
